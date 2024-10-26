@@ -1,1 +1,3 @@
 # SyahPlant
+
+An online platform dedicated to plant enthusiasts, SyahPlant offers a seamless browsing and purchasing experience for a variety of plants. The website features a clean, user-friendly interface built with HTML, CSS, and JavaScript, showcasing curated collections of indoor, outdoor, and specialty plants. With detailed descriptions, plant care tips, and a straightforward checkout process, SyahPlant makes it easy for users to find and buy plants that fit their style and environment. The project highlights simple, intuitive design, focused on providing a smooth user experience for plant lovers of all levels.
